@@ -1,2 +1,2 @@
 # quemcontaumconto.com
-A tales repository
+Um repositório de contos
